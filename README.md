@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React-Chat-Bot
+
+This project was my first attempt to learn how to build an Amazon conversational chat bot in react.
 
 ## Available Scripts
 
